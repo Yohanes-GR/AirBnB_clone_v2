@@ -42,7 +42,6 @@ sudo sed -i '38i\\tlocation /hbnb_static/ {\n\t\talias /data/web_static/current/
 sudo ln -sf '/etc/nginx/sites-available/default' '/etc/nginx/sites-enabled/default'
 echo -e "\e[1;32m Symbolic link created\e[0m"
 echo
-
 #--restart NGINX
 sudo service nginx restart
 echo -e "\e[1;32m restart NGINX\e[0m"
