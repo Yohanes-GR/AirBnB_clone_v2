@@ -59,5 +59,5 @@ $
 ```
 
 ## Authors :black_nib:
-* **Birhanu Gebisa** <[birhanugebisa](https://github.com/BirhanuGebisa)>
-* **Tolera Weyessa** <[todaycu](https://github.com/todaycu)>
+* **Yohanes Gutema** <[Yohanes Gutema](https://github.com/Yohanes-GR)>
+* **Yunus ** <[todaycu](https://github.________)>
