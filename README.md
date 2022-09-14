@@ -14,22 +14,22 @@ The console is a command line interpreter that permits management of the backend
 
 ### Using the Console
 
-The AirBnB console can be run both interactively and non-interactively. 
-To run the console in non-interactive mode, pipe any command(s) into an execution 
+The AirBnB console can be run both interactively and non-interactively.
+To run the console in non-interactive mode, pipe any command(s) into an execution
 of the file `console.py` at the command line.
 
 ```
 $ echo "help" | ./console.py
-(hbnb) 
+(hbnb)
 Documented commands (type help <topic>):
 ========================================
 EOF  all  count  create  destroy  help  quit  show  update
 
-(hbnb) 
+(hbnb)
 $
 ```
 
-Alternatively, to use the AirBnB console in interactive mode, run the 
+Alternatively, to use the AirBnB console in interactive mode, run the
 file `console.py` by itself:
 
 ```
@@ -40,10 +40,10 @@ While running in interactive mode, the console displays a prompt for input:
 
 ```
 $ ./console.py
-(hbnb) 
+(hbnb)
 ```
 
-To quit the console, enter the command `quit`, or input an EOF signal 
+To quit the console, enter the command `quit`, or input an EOF signal
 (`ctrl-D`).
 
 ```
@@ -60,4 +60,4 @@ $
 
 ## Authors :black_nib:
 * **Yohanes Gutema** <[Yohanes Gutema](https://github.com/Yohanes-GR)>
-* **Yunus ** <[todaycu](https://github.________)>
+* **Yunus ** <[IamYunusAli](https://github.com/iamyunusali)>
